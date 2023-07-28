@@ -1,0 +1,17 @@
+.video {
+    width: 450px;
+  }
+  #vids {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  .vidrow {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+  }
+  #mvids {
+    padding-bottom: 50px;
+  }

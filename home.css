@@ -1,0 +1,17 @@
+#Main {
+    display: flex;
+    padding-top: 90px;
+    flex-direction: column;
+    align-items: center;
+  }
+#Main h1 {
+    font-size: 50px;
+  }
+  
+#Main p {
+    padding-block: 13px;
+    width: 80%;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    border-style: solid;
+  }
